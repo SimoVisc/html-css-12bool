@@ -18,6 +18,11 @@
 .p-10{
     padding: 10px;
 }
+/* FLEX */
 .flex{
     display: flex;
+}
+/* SECTION */
+.section-2{
+    padding-top:5%
 }

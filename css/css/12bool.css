@@ -7,8 +7,9 @@
     text-align: center;
 }
 .col-inside{
-    background-color: green;
+    background-color: lightgreen;
     border: blue solid ;
+    padding: 1%;
 }
 .col-1{
     width: calc(100% /12 );
